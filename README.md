@@ -1,4 +1,4 @@
-### Hi there, I'm Hacı Osman Cingöz! 👋
+### Hi there, I'm Osman Cingöz! 👋
 
 I'm a Computer Engineering student at **Marmara University**, passionate about building scalable **Backend Systems**, **Artificial Intelligence**, and **Test Automation**.
 
