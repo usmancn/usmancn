@@ -27,8 +27,3 @@ I'm a Computer Engineering student at **Marmara University**, passionate about b
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-![Osman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmancn&show_icons=true&theme=radical)
